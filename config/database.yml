@@ -13,6 +13,5 @@ test:
 
 production:
   <<: *default
-  database: d8agljclk94irf
   username: postgres
   password:
