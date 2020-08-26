@@ -14,5 +14,5 @@ test:
 production:
   <<: *default
   database: AdminFood_production
-  username: postgresql
-  password: <%= ENV['ADMINFOOD_DATABASE_PASSWORD'] %>
+  username: postgres
+  password:
