@@ -13,6 +13,6 @@ test:
 
 production:
   <<: *default
-  database: AdminFood_production
+  database: d8agljclk94irf
   username: postgres
   password:
